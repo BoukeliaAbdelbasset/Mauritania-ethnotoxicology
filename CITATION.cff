@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this codebase or 3-tier literature toxicology dataset, please cite our accompanying manuscript."
+title: "Mauritanian Livestock Ethno-Toxicology: Audit-Proof Reproducible Code and Literature Database"
+type: software
+authors:
+  - family-names: "Boukelia"
+    given-names: "Abdelbasset"
+    affiliation: "Biotechnology Research Center (CRBt), Constantine, Algeria"
+    email: "a.boukelia@crbt.dz"
+  - family-names: "Cheikh Ahmed"
+    given-names: "Mariem"
+    affiliation: "Université de Nouakchott / ONARDEL, Mauritania"
+  - family-names: "Khattabi"
+    given-names: "Latifa"
+    affiliation: "Biotechnology Research Center (CRBt), Constantine, Algeria"
+license: MIT
+version: "1.1.0"
+date-released: "2026-11-25"

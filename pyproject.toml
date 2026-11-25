@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mauritania-ethnotoxicology-toxicon"
+version = "1.1.0"
+description = "Reproducible ethno-toxicological analysis pipeline and literature toxicology database for Mauritanian livestock-poisoning plants (Toxicon)."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+authors = [
+  { name = "Abdelbasset Boukelia", email = "a.boukelia@crbt.dz" },
+  { name = "Mariem Cheikh Ahmed" },
+  { name = "Latifa Khattabi" }
+]
+dependencies = [
+  "numpy>=1.24.0",
+  "pandas>=2.0.0",
+  "scipy>=1.11.0",
+  "scikit-learn>=1.3.0",
+  "matplotlib>=3.7.0",
+  "openpyxl>=3.1.0",
+  "networkx>=3.1"
+]

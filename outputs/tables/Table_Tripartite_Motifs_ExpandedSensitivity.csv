@@ -1,0 +1,10 @@
+Motif,Observed,Null_Mean,Enrichment,Z_score
+Flower → ruminant → Digestive,129,94.15,1.37,8.19
+Whole plant → ruminant → Neurological,40,18.65,2.14,7.06
+Whole plant → ruminant → Reproductive,5,2.11,2.37,2.61
+Leaf → ruminant → Unspecified,14,8.66,1.62,2.14
+Whole plant → ruminant → General,11,7.25,1.52,1.86
+Whole plant → ruminant → Unspecified,21,17.84,1.18,1.02
+Leaf → ruminant → General,5,3.53,1.42,0.89
+Leaf → ruminant → Digestive,58,57.87,1.0,0.03
+Whole plant → ruminant → Digestive,85,118.57,0.72,-7.63

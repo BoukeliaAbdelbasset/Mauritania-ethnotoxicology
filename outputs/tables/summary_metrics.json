@@ -1,0 +1,69 @@
+{
+  "n_informants": 106,
+  "men_n": 85,
+  "women_n": 21,
+  "age_min": 15,
+  "age_max": 75,
+  "age_mean": 55.29,
+  "age_sd": 11.71,
+  "age_vs_species_r": 0.2074,
+  "age_vs_species_p": 0.0329,
+  "n_species": 41,
+  "n_families_apgiv": 21,
+  "n_families_trad": 22,
+  "n_citations": 364,
+  "mean_citations_per_herder": 3.43,
+  "fabaceae_fiv": 100.0,
+  "literature_species_level_k10": 14,
+  "literature_genus_mech_k05": 10,
+  "literature_unconfirmed_k00": 17,
+  "literature_citations_k_ge_05_n": 326,
+  "literature_citations_k_ge_05_pct": 89.56,
+  "cct_max_rhat": 1.0064,
+  "cct_mean_competence": 0.712,
+  "cct_competence_indigofera_r": 0.5682,
+  "cct_competence_listlen_r": 0.2614,
+  "nmi_toxidrome_species": 0.3282,
+  "ruminant_pct": 99.11,
+  "nodf_nontied": 83.47,
+  "nodf_nontied_null_mean": 69.59,
+  "nodf_nontied_z": 3.39,
+  "nodf_nontied_p": 0.001,
+  "nodf_strict": 61.24,
+  "nodf_strict_null_mean": 53.49,
+  "nodf_strict_z": 1.72,
+  "nodf_strict_p": 0.038,
+  "risk_collapse_auc_targeted": 0.3942,
+  "vrpi_weight_sensitivity": {
+    "equal_weights": {
+      "spearman_rho": 0.9458,
+      "top5": [
+        "Indigofera senegalensis",
+        "Ricinus communis",
+        "Prosopis juliflora",
+        "Tribulus terrestris",
+        "Aristida funiculata"
+      ]
+    },
+    "toxicology_heavy": {
+      "spearman_rho": 0.895,
+      "top5": [
+        "Indigofera senegalensis",
+        "Ricinus communis",
+        "Prosopis juliflora",
+        "Tribulus terrestris",
+        "Aristida funiculata"
+      ]
+    },
+    "consensus_heavy": {
+      "spearman_rho": 0.9718,
+      "top5": [
+        "Indigofera senegalensis",
+        "Ricinus communis",
+        "Prosopis juliflora",
+        "Aristida funiculata",
+        "Crotalaria podocarpa"
+      ]
+    }
+  }
+}

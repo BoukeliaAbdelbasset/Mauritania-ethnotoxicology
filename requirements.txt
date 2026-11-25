@@ -1,0 +1,10 @@
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+openpyxl>=3.1.0
+networkx>=3.1
+# Optional for PyMC v5 NUTS Hamiltonian Monte Carlo CCT backend:
+# pymc>=5.10.0
+# arviz>=0.17.0

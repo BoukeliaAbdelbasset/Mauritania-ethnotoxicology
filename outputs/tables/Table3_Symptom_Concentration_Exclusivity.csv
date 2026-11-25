@@ -1,0 +1,10 @@
+Clinical_Sign,Reports_n,Cited_Taxa_Ks,Entropy_bits,Within_Sign_Concentration_Csign,Flora_Wide_Exclusivity_Sflora
+Sterility,4,1,0.0,1.0,1.0
+Sore mouth,27,2,0.3809,0.6191,0.9289
+Blind,22,3,0.6999,0.5584,0.8694
+Ballooning,156,10,2.0497,0.383,0.6174
+Madness,18,5,1.8764,0.1919,0.6498
+Constipation,8,3,1.2988,0.1806,0.7576
+Diarrhea,71,12,2.9467,0.178,0.45
+Undefined,39,19,3.6223,0.1473,0.3239
+Weight loss,12,4,1.8554,0.0723,0.6537
